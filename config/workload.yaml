@@ -12,6 +12,6 @@ spec:
       autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: https://github.com/sample-accelerators/tanzu-java-web-app-miuser008
+      url: https://github.com/vsicth-vmw/tanzu-java-web-app-miuser008
       ref:
         branch: main
